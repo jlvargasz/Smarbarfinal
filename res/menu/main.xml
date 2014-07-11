@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+      <item
+            android:id="@+id/btnRegistrar"
+            android:title="Registrar \nPedido">
+      </item>
+      <item
+            android:id="@+id/btVer"
+            android:title="Ver \nPedido">
+      </item>
+      <item
+            android:id="@+id/btLimpiar"
+            android:title="Limpiar \nPedido">
+      </item>
+      <item
+            android:id="@+id/btnSalir"
+            android:title="Salir">
+      </item>
+</menu>
